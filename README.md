@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalla Ahmed</h1>
-<h3 align="center">Software Developer | AI Enthusiast | CS Student</h3>
+<h3 align="center">Software Developer | AI Enthusiast </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Building+Real+World+Apps;AI+%7C+Web+Development;Always+Learning+New+Things" />
@@ -8,10 +8,11 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Computer Science Student  
-- 🧠 Working on **Fake News AI Detector**  
-- 💻 Building full-stack apps (React + Firebase)  
-- 🏢 Internship @ R&D Center (Department Management System)  
+- 🎓 Software Engineer with a strong focus on **Web Development**  
+- 🎨 Passionate about **Frontend Engineering** — I enjoy turning ideas into clean, responsive, and interactive user interfaces  
+- ⚛️ Experienced with **React**, building reusable components and modern UI flows  
+- 🔥 I care about **UI/UX, performance, and writing clean, maintainable code**  
+- 📈 Always learning and improving my frontend skills to build better digital experiences  
 
 ---
 
